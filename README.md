@@ -1,5 +1,5 @@
 To preview:
 
-1. clone the repo
-2. cd into the repo
+1. `git clone`
+2. `cd website-academic`
 3. run `hugo server -D`
