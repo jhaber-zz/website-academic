@@ -1,5 +1,5 @@
 ---
-title: "Sorting Schools: A Computational Analysis of Charter School Identities and Stratification"
+title: "Institutionalized Involvement: Teams and Stress in 1990s U.S. Steel"
 authors:
 - admin
 
@@ -16,16 +16,16 @@ publishDate: "2018-01-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under review at *Sociology of Education*
+publication: "Industrial Relations: A Journal of Economy and Society, 55(4):632–61"
 # publication: In *Sorting Schools: A Computational Analysis of Charter School Identities and Stratification*
 # publication_short: In *STC*
 
-abstract: Research shows that charter schools are more segregated by race and class than traditional public schools. I investigate an under-examined mechanism for this segregation - Charter schools project identities corresponding to parents’ race- and class-specific parenting styles and educational values. I use computational text analysis to detect the emphasis on inquiry-based learning in the websites of all charter schools operating in the 2015-16 school year. I then estimate mixed linear regression models to test the relationships between ideological emphasis and school- and district-level poverty and ethnicity. I thereby transcend methodological problems in scholarship on charter school identities by collecting contemporary, valid, population-wide data, as well as by blending text analysis with hypothesis testing. Findings suggest that charter school identities are both race- and class-specific, lending weight to arguments for further regulating charter school enrollments. This project contributes to literatures on school choice, educational stratification, and organizational identity.
+abstract: "Is employee involvement universally either good or bad, a “best practice” or an exploitative tool—or do its effects depend on context? To shed light on this issue, I ask the following question: Do organizational–cultural factors determine whether employees are stressed by membership in teams? By constructing mixed-effects models from a large mid-1990s survey of U.S. steel employees, I find that team membership is linked to increased stress only when implemented in cultural contexts of conflict and distrust. I conclude that the unintended consequences of institutionalized formal practices depend on organizationally specific cultural conditions."
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. 
 
 tags:
-- Charter School
+
 featured: true
 
 
@@ -52,13 +52,5 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

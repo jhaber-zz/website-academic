@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: PhD candidate, Sociology 
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley Sociology Department
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
 # - Artificial Intelligence

@@ -1,0 +1,83 @@
+html {
+    background-color: #F6F6F6;
+}
+body {
+    margin: 0px;
+    font-family: "Open Sans", "Helvetica", "Arial", sans serif;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #61B329;
+}
+@media (min-width: 875px) {
+    #pictureofme {
+        width: 40%;
+        height: 100%;
+        background-size: auto 100%;
+        float: left;
+    }
+    #whiteside {
+        background-color: white;
+        height: 100%;
+        width: 60%;
+        float: right;
+    }
+    #aboutme {
+        margin: 0 auto;
+        padding-left: 60px;
+        padding-right: 60px;
+        padding-top: 23%;
+        max-width: 600px;
+    }
+    #name {
+        font-size: 50px;
+        font-weight: 600;
+    }
+}
+@media (max-width: 875px) {
+    #pictureofme {
+        background-size: 100% auto;
+        height: 400px;
+    }
+    #aboutme {
+        margin: 0 auto;
+        padding: 20px 60px 30px 100px;
+    }
+    #name {
+        font-size: 50px;
+        font-weight: 600;
+    }
+}
+@media (max-width: 600px) {
+    #pictureofme {
+        background-size: 100% auto;
+        height: 200px;
+    }
+    #aboutme {
+        margin: 0 auto;
+        padding: 20px 30px 30px 70px;
+    }
+    #name {
+        font-size: 45px;
+        font-weight: 600;
+    }
+}
+#pictureofme {
+    background-image: "../../static/img/index.jpg";
+    background-position: center;
+}
+#description {
+    font-style: italic;
+}
+.header {
+    font-size: 30px;
+    font-weight: 100;
+    margin: 20px 0px 0px;
+}
+.text {
+    font-size: 15;
+    font-weight: 300;
+    line-height: 25px;
+    margin-top: 10px;
+}

@@ -3,9 +3,9 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "dark"
+color_theme = "default"
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
@@ -51,7 +51,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jhaber@berkeley.edu"
-phone = "925-548-2992"
+phone = ""
 address = "PO Box 134, Woodacre, CA 94973"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
