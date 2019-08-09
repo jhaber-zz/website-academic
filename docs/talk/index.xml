@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Jaren Haber</title>
+    <link>www.jarenhaber.com/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Jaren Haber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="www.jarenhaber.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sorting Schools: A Computational Analysis of Charter School Identities and Stratification</title>
+      <link>www.jarenhaber.com/talk/sorting-schools/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>www.jarenhaber.com/talk/sorting-schools/</guid>
+      <description>&lt;p&gt;Under review at &lt;em&gt;Sociology of Education&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selling Segregation: How Charter School Websites Signal Race and Class--and Parents Listen, joint with Nick Camp and Jae Yeon Kim</title>
+      <link>www.jarenhaber.com/talk/selling-segregation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.jarenhaber.com/talk/selling-segregation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Computational Literature Review: Refining Expert-Built Dictionaries for Automated Analysis of Academic Texts, joint with Heather Haveman</title>
+      <link>www.jarenhaber.com/talk/dictionaries/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>www.jarenhaber.com/talk/dictionaries/</guid>
+      <description>&lt;p&gt;See &lt;a href=&#34;https://vimeo.com/denoisestudios/review/307173343/1fa72da7e5&#34; target=&#34;_blank&#34;&gt;my talk on an early version of this method&lt;/a&gt; and &lt;a href=&#34;https://github.com/jhaber-zz/wem4themes&#34; target=&#34;_blank&#34;&gt;our developing code on this method.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

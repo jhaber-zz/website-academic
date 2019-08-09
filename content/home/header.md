@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["60pt", "40pt", "20pt", "500pt"]
+  padding = ["0pt", "40pt", "20pt", "475pt"]
 
 [advanced]
  # Custom CSS.
@@ -48,14 +48,24 @@ subtitle = ""
  
 +++
 
-
 <span style="color:gray"> PhD candidate, Sociology</span> <br>
- <span style="color:gray"> University of California, Berkeley</span>
-<br><br>
-<br><br>
+<span style="color:gray"> (expected grad. May 2020)</span><br>
+<span style="color:gray"> University of California, Berkeley</span>
+<div class="icon-bar">
+<a href="files/Jarens_CV_2019.pdf">CV</a>
+<a href="https://github.com/jhaber-zz/"><i class="fab fa-github"></i></i></a> 
+<a href="https://www.linkedin.com/in/jaren-haber-2b17a85"><i class="fab fa-linkedin"></i></a> 
+<a href="https://orcid.org/0000-0002-5093-8895"><i class="fa fa-globe"></i></a>
+<a href="https://twitter.com/jhaber43"><i class="fab fa-twitter"></i></a> 
+</div>
+<br>
+<!---->
+<!--<font size="3">I'm a computational social scientist, project and community leader, and award-winning educator. I'm passionate about helping others and creating positive social impact through rigorous, reproducible research that influences policy.</font><br><br>-->
+<!--<font size="3">My research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. I analyze the ways organizational cultures, identities, and structures provide a web of meanings that mediate and reinforce societal inequalities in locally embedded ways.</font><br><br>-->
+<!--<font size="3">As someone dedicated to data science community and education, I also co-coordinate the D-Lab's Computational Text Analysis Working Group and the Text Across Domains (TextXD) symposium at UC Berkeley as well as the upcoming Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS).</font>-->
 
-I am a PhD candidate in sociology at the University of California, Berkeley, expecting to graduate in May 2020. My research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. I analyze the ways organizational identities provide a web of meanings that mediate and reinforce societal inequalities in locally embedded ways.
+I’m a computational social scientist, project and community leader, and award-winning educator. I’m passionate about helping others and creating positive social impact through rigorous, reproducible research that influences policy.
 
-As someone passionate about data science community and education, I also co-coordinate the D-Lab’s Computational Text Analysis Working Group and the TextXD (Text Across Domains) symposium at UC Berkeley as well as the upcoming Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS).
-<br><br>
-<br><br>
+My research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. I analyze the ways organizational cultures, identities, and structures provide a web of meanings that mediate and reinforce societal inequalities in locally embedded ways.
+
+As someone dedicated to data science community and education, I also co-coordinate the D-Lab’s Computational Text Analysis Working Group and the Text Across Domains (TextXD) symposium at UC Berkeley as well as the upcoming Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS).

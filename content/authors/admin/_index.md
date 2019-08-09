@@ -72,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in sociology at the University of California, Berkeley, expecting to graduate in May 2020. My research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. I analyze the ways organizational identities provide a web of meanings that mediate and reinforce societal inequalities in locally embedded ways. 
+I'm a computational social scientist, project and community leader, and award-winning educator. I'm passionate about helping others and creating positive social impact through rigorous, reproducible research that influences policy.
 
-As someone passionate about data science community and education, I also co-coordinate the D-Lab's Computational Text Analysis Working Group and the TextXD (Text Across Domains) symposium at UC Berkeley as well as the upcoming Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS).
+My research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. I analyze the ways organizational cultures, identities, and structures provide a web of meanings that mediate and reinforce societal inequalities in locally embedded ways. 
+
+As someone dedicated to data science community and education, I also co-coordinate the D-Lab's Computational Text Analysis Working Group and the Text Across Domains (TextXD) symposium at UC Berkeley as well as the upcoming Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS).

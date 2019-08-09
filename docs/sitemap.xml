@@ -3,60 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>www.jarenhaber.com/authors/admin/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.jarenhaber.com/publication_types/3/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.jarenhaber.com/authors/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.jarenhaber.com/publication/working1/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>www.jarenhaber.com/authors/heather-haveman/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>www.jarenhaber.com/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.jarenhaber.com/publication_types/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>www.jarenhaber.com/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.jarenhaber.com/publication/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+    <loc>www.jarenhaber.com/talk/sorting-schools/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.jarenhaber.com/tags/source-themes/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.jarenhaber.com/tags/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>www.jarenhaber.com/authors/admin/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -66,29 +30,44 @@
   </url>
   
   <url>
-    <loc>www.jarenhaber.com/tags/charter-school/</loc>
+    <loc>www.jarenhaber.com/authors/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.jarenhaber.com/publication/paper1/</loc>
+    <loc>www.jarenhaber.com/publication/institutionalized-involvement/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>www.jarenhaber.com/publication_types/6/</loc>
-    <lastmod>1969-12-31T16:33:36-08:00</lastmod>
+    <loc>www.jarenhaber.com/publication_types/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.jarenhaber.com/publication/paper2/</loc>
-    <lastmod>1969-12-31T16:33:36-08:00</lastmod>
+    <loc>www.jarenhaber.com/publication/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.jarenhaber.com/talk/selling-segregation/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>www.jarenhaber.com/talk/dictionaries/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>www.jarenhaber.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.jarenhaber.com/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -19,9 +19,14 @@
   weight = 25
 
 [[main]]
-  name = "Open Source Materials"
+  name = "Open-Source Research"
   url = "#opensource"
   weight = 30
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 35
 
 [[main]]
   name = "Academic Leadership"
