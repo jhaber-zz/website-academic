@@ -1,8 +1,8 @@
 ---
 title: "Selling Segregation: How Charter School Websites Signal Race and Class--and Parents Listen, joint with Nick Camp and Jae Yeon Kim"
-event: 
-event_url: 
-location: 
+event:
+event_url:
+location:
 summary: ""
 abstract: "Recent studies have established that there is a strong correlation between charter schools and school segregation. We identify linguistic and psychological mechanisms that tie them together. We scraped mission statements from 5,334 charter school websites across the United States. Computational text analysis of these mission statements describes that the languages used in these schools significantly vary by race (white/black) and poverty. Online experiments support the theory that racially coded linguistic cues influence how viewers perceive racial demographics and valuations of different schools. The findings have implications for educational inequality in general and school segregation in particular. The methods we use also illustrate how the combination of natural language processing and online experiments strengthens both internal and external validity."
 
@@ -13,7 +13,7 @@ date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-08-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -50,5 +50,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
-
