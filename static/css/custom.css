@@ -13,6 +13,7 @@ a {
 @media (min-width: 875px) {
     #pictureofme {
         width: 40%;
+        /* width: 100%; */
         height: 100%;
         background-size: auto 100%;
         float: left;
