@@ -43,7 +43,7 @@ social:
     # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   - icon: cv
     icon_pack: ai
-    link: files/Jarens_CV_2019.pdf
+    link: files/CV_Haber.pdf
   - icon: github
     icon_pack: fab
     link: https://github.com/jhaber-zz
