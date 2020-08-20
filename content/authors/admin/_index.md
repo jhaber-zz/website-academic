@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jaren Haber
+name: Jaren Haber, PhD
 
 # Username (this should match the folder name)
 authors:
