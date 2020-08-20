@@ -48,15 +48,15 @@ subtitle = ""
  
 +++
 
-<span style="color:gray"> PhD candidate, Sociology</span> <br>
-<span style="color:gray"> (expected grad. May 2020)</span><br>
-<span style="color:gray"> University of California, Berkeley</span>
+<span style="color:gray"> Postdoctoral Fellow</span> <br>
+<span style="color:gray"> Massive Data Institute, Georgetown University</span>
 <div class="icon-bar">
 <a href="files/CV_Haber.pdf">CV</a>
 <a href="https://github.com/jhaber-zz/"><i class="fab fa-github"></i></i></a> 
 <a href="https://www.linkedin.com/in/jaren-haber-2b17a85"><i class="fab fa-linkedin"></i></a> 
 <a href="https://orcid.org/0000-0002-5093-8895"><i class="fa fa-globe"></i></a>
-<a href="https://twitter.com/jhaber43"><i class="fab fa-twitter"></i></a> 
+<a href="https://twitter.com/jhaber43"><i class="fab fa-twitter"></i></a>
+<a href="https://www.youtube.com/channel/UCjygD4N64ka51fGRYMXEi7g"><i class="fab fa-youtube"></i></a>
 </div>
 <br>
 <!---->
