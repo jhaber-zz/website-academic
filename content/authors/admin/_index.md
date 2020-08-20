@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate, Sociology 
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Berkeley
-  url: ""
+- name: Massive Data Institute, Georgetown University
+  url: "https://mccourt.georgetown.edu/research/the-massive-data-institute/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -56,6 +56,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/jhaber43
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCjygD4N64ka51fGRYMXEi7g
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -76,4 +79,4 @@ I'm a computational social scientist, project and community leader, and award-wi
 
 My research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. I analyze the ways organizational cultures, identities, and structures mediate and reinforce societal inequalities in locally embedded ways. 
 
-As someone dedicated to data science community and education, I also co-coordinate the D-Lab's Computational Text Analysis Working Group and the Text Across Domains (TextXD) symposium at UC Berkeley as well as the upcoming Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS).
+As someone dedicated to data science community and education, I am now a Postdoctoral Fellow with the Massive Data Institute (MDI) at Georgetown University. My goal at MDI is to foster research communities while applying data science methods to policy puzzles. I also co-coordinated the D-Lab's [Computational Text Analysis Working Group](http://dlabctawg.github.io/) and the [Text Across Domains (TextXD) symposium](https://www.textxd.org/) at UC Berkeley. Finally, I organized the virtual [Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS)](http://bit.ly/baysicss) in 2020, which created partnerships between computational social scientists and Bay Area nonprofits.
