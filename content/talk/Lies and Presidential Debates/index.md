@@ -8,7 +8,7 @@ abstract: "We studied how the 2020 presidential debates created and reinforced m
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-31"
+date: "2021"
 date_end: ""
 all_day: false
 
