@@ -1,21 +1,21 @@
 ---
-title: "Toward Computational Literature Review: Refining Expert-Built Dictionaries for Automated Analysis of Academic Texts, joint with Heather Haveman"
+title: "Toward Computational Literature Review: Refining Expert-Built Dictionaries for Automated Analysis of Academic Texts"
 event:
-event_url:
+event_url: "https://osf.io/preprints/socarxiv/9367z/"
 location:
 summary: ""
-abstract: "We develop an general-use, inductive method of generating domain-specific dictionaries through word embedding models. Our workflow has three steps: construct (query model with seed terms to develop core dictionaries), refine (maximize dictionary coherence and distinctiveness), and validate (using unsupervised clustering and hand coding). We are optimizing our approach by varying the core dictionary size, WEM generation method (pre-trained vs. native), and dictionary application method (count-based vs. vector projection). We also compare results from two test cases: charter school websites and a corpus of academic journal articles. Our method of creating and validating new and even complex dictionaries allows researchers in diverse domains an accessible, reproducible, and valid workflow for analyzing researcher-generated themes in texts. This represents a significant improvement on the idiosyncratic, domain-restrictive approach to dictionaries used by social scientists for decades."
+abstract: "The social sciences face growing demand for reproducible tools for processing massive troves of often-complex text data (political speeches, medical notes, etc.). In response, we aim toward computational literature review by developing an inductive method of applying expert-built dictionaries for automated analysis of complex texts. Our workflow begins with developing dictionaries from foundational texts and domain expertise. Next, we apply text-analytic methods of differential domain-specificity and complexity to create vector-space representations of texts. Finally, we compare the validity of these methods by using regression models to evaluate relationships between their representations and ground truth. Taking as our use case a large corpus of academic articles in organizational science, we find that domain-specific, relatively simple embeddings were most valid--while the more sophisticated models were very weak. Thus, we suggest that social science workflows for learning from complex texts incorporate embeddings that are domain-specific and straightforward--rather than convoluted."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
+date: "2020"
 date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2020-01-30"
 
-authors: []
+authors: ["Jaren R. Haber, Heather A. Haveman, and Yoon Sung Hong"]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -27,8 +27,8 @@ image:
 
 links:
 
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/h2researchgroup/classification"
+url_pdf: "https://osf.io/preprints/socarxiv/9367z/"
 url_slides: ""
 url_video: ""
 
@@ -37,7 +37,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -51,4 +51,4 @@ projects:
 math: true
 ---
 
-See [my talk on an early version of this method](https://vimeo.com/denoisestudios/review/307173343/1fa72da7e5) and [our developing code on this method.](https://github.com/jhaber-zz/wem4themes)
+See [my 20-min talk on this project](https://youtu.be/PEYWyQJMtnM) and [a succinct 5-min version.](https://youtu.be/_3OwZSIcrUI)

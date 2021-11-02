@@ -12,13 +12,13 @@ day_night = true
 font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Home page for computational social scientist, Jaren R. Haber, PhD"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "origin.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "jhaber43"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jhaber@berkeley.edu"
 phone = ""
-address = "PO Box 134, Woodacre, CA 94973"
+address = "McCourt School of Public Policy, 37th and O Streets, NW, Old North, Suite 100, Washington, DC 20057"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>

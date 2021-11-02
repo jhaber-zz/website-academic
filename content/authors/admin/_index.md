@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jaren Haber, PhD
+name: Jaren R. Haber, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -25,11 +25,11 @@ organizations:
 # - Computational Linguistics
 # - Information Retrieval
 
-# education:
+#education:
 #  courses:
 # - course: PhD in Artificial Intelligence
-# institution: Stanford University
-# year: 2012
+#institution: University of California, Berkeley
+#year: 2020
 
 
 # Social/Academic Networking
@@ -66,7 +66,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jhaber@berkeley.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
