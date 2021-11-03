@@ -77,6 +77,6 @@ user_groups:
 
 I'm a computational social scientist, project and community leader, and award-winning educator. I'm passionate about helping others and creating positive social impact through rigorous, reproducible research that influences policy.
 
-My research applies computational methods to study how organizational contexts shape the impacts of structural inequalities. I analyze the ways organizational cultures, identities, and structures mediate and reinforce societal inequalities in locally embedded ways. 
+My research investigates how logics, categories, and identities reflect and reproduce structural inequalities in educational, organizational, and political contexts. I develop mixed, open-access methods to analyze social hierarchies with computational social science workflows.
 
 As someone dedicated to data science community and education, I am now a Postdoctoral Fellow with the Massive Data Institute (MDI) at Georgetown University. My goal at MDI is to foster research communities while applying data science methods to policy puzzles. I also co-coordinated the D-Lab's [Computational Text Analysis Working Group](http://dlabctawg.github.io/) and the [Text Across Domains (TextXD) symposium](https://www.textxd.org/) at UC Berkeley. Finally, I organized the virtual [Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS)](http://bit.ly/baysicss) in 2020, which created partnerships between computational social scientists and Bay Area nonprofits.
