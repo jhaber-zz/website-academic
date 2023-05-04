@@ -14,8 +14,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Massive Data Institute, Georgetown University
-  url: "https://mccourt.georgetown.edu/research/the-massive-data-institute/"
+- name: Quantitative Social Science, Dartmouth College
+  url: "https://qss.dartmouth.edu/people/jaren-haber"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -75,8 +75,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a computational social scientist, project and community leader, and award-winning educator. I'm passionate about helping others and creating positive social impact through rigorous, reproducible research that influences policy.
+I’m an computational social scientist and data scientist experienced in project leadership from conception & capacity-building to delivery. I’m skilled in natural language processing, machine learning, statistical techniques; presenting results to diverse stakeholders; and teaching data science. I specialize in leading research into digital information flows, inequality, and policy. I’m committed to positive social impact through collaboration, rigorous research, and open-access code and workflows.
 
-My research investigates how logics, categories, and identities reflect and reproduce structural inequalities in educational, organizational, and political contexts. I develop mixed, open-access methods to analyze social hierarchies with computational social science workflows.
-
-As someone dedicated to data science community and education, I am now a Postdoctoral Fellow with the Massive Data Institute (MDI) at Georgetown University. My goal at MDI is to foster research communities while applying data science methods to policy puzzles. I also co-coordinated the D-Lab's [Computational Text Analysis Working Group](http://dlabctawg.github.io/) and the [Text Across Domains (TextXD) symposium](https://www.textxd.org/) at UC Berkeley. Finally, I organized the virtual [Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS)](http://bit.ly/baysicss) in 2020, which created partnerships between computational social scientists and Bay Area nonprofits.
+As someone dedicated to data science community and education, I also co-coordinated the D-Lab's [Computational Text Analysis Working Group](http://dlabctawg.github.io/) and the [Text Across Domains (TextXD) symposium](https://www.textxd.org/) at UC Berkeley. Finally, I organized the virtual [Summer Institute for Computational Social Science in the San Francisco Bay Area (BAY-SICSS)](http://bit.ly/baysicss) in 2020, which created partnerships between computational social scientists and Bay Area nonprofits.
